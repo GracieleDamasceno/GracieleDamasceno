@@ -23,7 +23,7 @@ ___
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=GracieleDamasceno&style=flat-square)
+![](https://komarev.com/ghpvc/?username=GracieleDamasceno&color=blueviolet&label=PROFILE+VIEWS)
 
 ___
 
