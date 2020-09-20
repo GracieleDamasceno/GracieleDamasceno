@@ -15,14 +15,15 @@ Hi, I'm ✨Gracie✨! I'm a Brazilian girl who loves to watch crazy tv shows and
 4. My favorite color is blue.
 5. 60% of my clothes are black. I'm trying to change that. (It's harrd)
 6. The first time that I saw and touched a computer was in 2010...
-7. ...just to choose them as main source of my income in 2014.
-8. I learned english by watching tv shows with subtitles.
+7. ... just to choose them as main source of my income in 2014.
+8. I learned english by watching tv shows with subtitles. :nerd_face:
 ___
 #### :chart_with_upwards_trend: Github Stats:
 [![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=buefy)](https://github.com/GracieleDamasceno/github-readme-stats)
 ___
 
 #### :computer: Some Skills:
+<p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +40,7 @@ ___
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
-
+</p>
 ___
 
 #### :handshake: Social Media:
