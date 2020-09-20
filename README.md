@@ -41,7 +41,8 @@ ___
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
-___
 
+
+___
 #### :handshake: Social Media:
 Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:damascenograciele@gmail.com">e-mail</a>.
