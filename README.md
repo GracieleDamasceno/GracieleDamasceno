@@ -1,4 +1,4 @@
-![header](/img/header.jpg?raw=true "Optional Title")
+![header](/img/header.jpg?raw=true "The Good Place Welcome")
 <p align="center">
 <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif">
 </p>
@@ -20,6 +20,11 @@ Hi, I'm ✨Gracie✨! I'm a Brazilian girl who loves to watch crazy tv shows and
 ___
 #### :chart_with_upwards_trend: Github Stats:
 [![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=buefy)](https://github.com/GracieleDamasceno/github-readme-stats)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=GracieleDamasceno&style=flat-square)
+
 ___
 
 #### :computer: Some Skills:
