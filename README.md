@@ -2,14 +2,16 @@
 <p align="center">
 <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif">
 </p>
+
 ___
 #### :unicorn: About me
+
 Hi, I'm ✨Gracie✨! I'm a Brazilian girl who loves to watch crazy tv shows and movies, listen to some good music, read some books and to code ~~(when it works, of course, just like any other human being :laughing:)~~
 
-######Random Trivia Time!
+**Random Trivia Time!**
 1. When I was little, I guess that I read over 500 books. Might be more or less that that, but for a period of time I had time to read three books per day! (good times)
 2. My favorite game, so far, is The Witcher 3.
-3. I lived in Vancouver, Canada, for about 16 months - while in a scholarship program.
+3. I lived in Vancouver, Canada, for about 16 months - while in a scholarship program. Currently I am living in Brazil!
 4. My favorite color is blue.
 5. 60% of my clothes are black. I'm trying to change that. (It's harrd)
 6. The first time that I saw and touched a computer was in 2010...
@@ -19,11 +21,8 @@ ___
 #### :chart_with_upwards_trend: Github Stats:
 [![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=buefy)](https://github.com/GracieleDamasceno/github-readme-stats)
 ___
-#### :1st_place_medal: Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno&count_private=true)](https://github.com/GracieleDamasceno/github-readme-stats)
-___
 
-####:computer: Some Skills:
+#### :computer: Some Skills:
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -43,5 +42,5 @@ ___
 
 ___
 
-#### Social Media:
+#### :handshake: Social Media:
 Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:damascenograciele@gmail.com">e-mail</a>.
