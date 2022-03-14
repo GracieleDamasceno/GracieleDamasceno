@@ -6,17 +6,21 @@
 ___
 #### :unicorn: About me
 
-Hi, I'm ✨Gracie✨! I'm a Brazilian girl who loves to watch crazy tv shows and movies, listen to some good music, read some books and to code ~~(when it works, of course, just like any other human being :laughing:)~~
+Hi, I'm ✨Gracie✨! I'm a Brazilian girl who loves to watch tv shows and movies (shoking), listen to some good music, read some books and to code ~~(when it works, of course, just like any other human being :laughing:)~~
+Currently, I am very engaged in challenging myself into coding and learning something new every day! Feel free to check my repositories and contributions.
 
-**Random Trivia Time!**
-1. When I was little, I guess that I read over 500 books. Might be more or less that that, but for a period of time I had time to read three books per day! (good times)
+**Random Trivia Time That Nobody Asked For!**
+1. I guess that I read over 500 books over when I was little. Might be more or less that that, but for a period of time I had time to read two to three books per day! (good times).
 2. My favorite game, so far, is The Witcher 3.
 3. I lived in Vancouver, Canada, for about 16 months - while in a scholarship program. Currently I am living in Brazil!
 4. My favorite color is blue.
-5. 60% of my clothes are black. I'm trying to change that. (It's harrd)
-6. The first time that I saw and touched a computer was in 2010...
-7. ... just to choose them as main source of my income in 2014.
+5. 60% of my clothes are black. I'm trying to change that. (It's very challenging, actually!)
+6. The first time that I saw in person and was able to touch a computer was in 2010 (not a long time ago :frowning:)...
+7. ... just to choose them as best friends and source of income in 2014. :money_with_wings:
 8. I learned english by watching tv shows with subtitles. :nerd_face:
+9. If I were a book, I literally would be "The Hitchhiker's Guide to the Galaxy", allegedly the best saga ever (source: me).
+10. My doggie favorite's toy is a plushy dinossaur. She loves the color yellow as well. Weirdo.
+
 ___
 #### :chart_with_upwards_trend: Github Stats:
 [![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=buefy)](https://github.com/GracieleDamasceno/github-readme-stats)
@@ -32,6 +36,7 @@ ___
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>  
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
