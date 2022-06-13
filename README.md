@@ -26,7 +26,10 @@ ___
 [![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=buefy)](https://github.com/GracieleDamasceno/github-readme-stats)
 
 <br>
+### :chart_with_upwards_trend: Top used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno)](https://github.com/GracieleDamasceno/github-readme-stats)
 
+<br>
 ![](https://komarev.com/ghpvc/?username=GracieleDamasceno&color=blueviolet&label=PROFILE+VIEWS)
 
 ___
