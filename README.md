@@ -23,7 +23,7 @@ Currently, I am very engaged in challenging myself into coding and learning some
 
 ___
 #### :chart_with_upwards_trend: Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno)](https://github.com/GracieleDamasceno/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno&layout=compact)](https://github.com/GracieleDamasceno/github-readme-stats)
 [![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=buefy)](https://github.com/GracieleDamasceno/github-readme-stats)
 
 <br>
