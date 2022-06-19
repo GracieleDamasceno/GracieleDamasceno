@@ -4,9 +4,9 @@
 </p>
 
 ___
-#### :unicorn: About me
+#### :unicorn::brazil: About me
 
-Hi, I'm ✨Gracie✨! I'm a Brazilian girl who loves to watch tv shows and movies (shoking), listen to some good music, read some books and to code ~~(when it works, of course, just like any other human being :laughing:)~~
+Hi, I'm ✨Gracie✨! I love to watch tv shows and movies (shoking), listen to some good music, read some books and to code ~~(when it works, of course, just like any other human being :laughing:)~~
 Currently, I am very engaged in challenging myself into coding and learning something new every day! Feel free to check my repositories and contributions.
 
 **Random Trivia Time That Nobody Asked For!**
@@ -19,10 +19,10 @@ Currently, I am very engaged in challenging myself into coding and learning some
 7. ... just to choose them as best friends and source of income in 2014. :money_with_wings:
 8. I learned english by watching tv shows with subtitles. :nerd_face:
 9. If I were a book, I literally would be "The Hitchhiker's Guide to the Galaxy", allegedly the best saga ever (source: me).
-10. My doggie favorite's toy is a plushy dinossaur. She loves the color yellow as well. Weirdo.
+10. My doggie's favorite toy is a plushy dinossaur. She loves the color yellow as well. Weirdo.
 
 ___
-#### :chart_with_upwards_trend: Github Stats:
+#### :chart_with_upwards_trend: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno&layout=compact&theme=material-palenight&langs_count=6)](https://github.com/GracieleDamasceno/github-readme-stats)
 [![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=material-palenight&hide=contribs)](https://github.com/GracieleDamasceno/github-readme-stats)
 
@@ -31,7 +31,7 @@ ___
 ![](https://komarev.com/ghpvc/?username=GracieleDamasceno&color=blueviolet&label=PROFILE+VIEWS)
 ___
 
-#### :computer: Some Skills:
+#### :computer: Some Skills
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -55,5 +55,5 @@ ___
 
 
 ___
-#### :handshake: Social Media:
+#### :handshake: Social Media
 Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:damascenograciele@gmail.com">e-mail</a>.
