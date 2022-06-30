@@ -23,9 +23,9 @@ Currently, I am very engaged in challenging myself into coding and learning some
 
 ___
 #### :chart_with_upwards_trend: Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno&layout=compact&theme=material-palenight&langs_count=6)](https://github.com/GracieleDamasceno/github-readme-stats)
-[![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=material-palenight&hide=contribs)](https://github.com/GracieleDamasceno/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno&layout=compact&theme=material-palenight&langs_count=6)](https://github.com/GracieleDamasceno?tab=repositories)
+[![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=material-palenight&hide=contribs)](https://github.com/GracieleDamasceno?tab=repositories)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GracieleDamasceno&theme=material-palenight)](https://github.com/GracieleDamasceno?tab=repositories)
 <br>
 
 ![](https://komarev.com/ghpvc/?username=GracieleDamasceno&color=blueviolet&label=PROFILE+VIEWS)
