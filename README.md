@@ -58,4 +58,4 @@ ___
 
 ___
 #### :handshake: Social Media
-Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:damascenograciele@gmail.com">e-mail</a>.
+Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:damascenograciele@gmail.com">e-mail</a>. Check also my [web page](https://gracieledamasceno.github.io/dev-on-track/) which contains some tutorials and random stuff by me!
