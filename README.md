@@ -4,28 +4,27 @@
 </p>
 
 ___
-#### :unicorn::brazil: About me
+#### ✍🏽 About me
 
-Hi, I'm ✨Gracie✨! I love to watch tv shows and movies (shoking), listen to some good music, read some books and to code ~~(when it works, of course, just like any other human being :laughing:)~~
-Currently, I am very engaged in challenging myself into coding and learning something new every day! Feel free to check my repositories and contributions.
+Hello! I am Gracie. As a "Masterchef" wannabe, I love to cook and try new dishes. I declared myself specialized in speed run books. Pseudo-film critic in my spare time, I take pleasure in listening to complete and cohesive albums.
+I write on my blog occasionally when inspiration pays me a visit: [Dev on Track!](blog.devontrack.com)
+
 
 **Random Trivia Time That Nobody Asked For!**
-1. I guess that I read over 500 books over when I was little. Might be more or less that that, but for a period of time I had time to read two to three books per day! (good times).
+1. I have the feeling that I've read over 500 books over when I was little. Might be more or less that, but for a period of time I had time to read two to three library books per day! (good times).
 2. My favorite game, so far, is The Witcher 3.
-3. I lived in Vancouver, Canada, for about 16 months - while in a scholarship program. Currently I am living in Brazil!
+3. I used to live in Vancouver, Canada, for a few years - while in a scholarship program. Currently, I am living in Brazil.
 4. My favorite color is blue.
 5. 60% of my clothes are black. I'm trying to change that. (It's very challenging, actually!)
 6. The first time that I saw in person and was able to touch a computer was in 2010 (not a long time ago :frowning:)...
-7. ... just to choose them as best friends and source of income in 2014. :money_with_wings:
-8. I learned english by watching tv shows with subtitles. :nerd_face:
-9. If I were a book, I literally would be "The Hitchhiker's Guide to the Galaxy", allegedly the best saga ever (source: me).
-10. My doggie's favorite toy is a plushy dinossaur. She loves the color yellow as well. Weirdo.
+7. ... just to choose it as best friend and source of income in 2014. :money_with_wings:
+8. I taught myself English by watching TV shows with subtitles. :nerd_face:
+9. If I were a book, I literally would be "The Hitchhiker's Guide to the Galaxy", allegedly the best saga ever.
+10. My doggie's favorite toy is a plushy dinosaur. She loves the color yellow as well. Weirdo.
 
 ___
 #### :chart_with_upwards_trend: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno&layout=compact&theme=material-palenight&langs_count=6)](https://github.com/GracieleDamasceno?tab=repositories)
-<br>
-[![Gracie's github stats](https://github-readme-stats.vercel.app/api?username=GracieleDamasceno&count_private=true&show_icons=true&theme=material-palenight&hide=contribs)](https://github.com/GracieleDamasceno?tab=repositories)
 <br>
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GracieleDamasceno&theme=material-palenight)](https://github.com/GracieleDamasceno?tab=repositories)
 <br>
@@ -58,4 +57,4 @@ ___
 
 ___
 #### :handshake: Social Media
-Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:damascenograciele@gmail.com">e-mail</a>. Check also my [web page](https://gracieledamasceno.github.io/dev-on-track/) which contains some tutorials and random stuff by me!
+Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:damascenograciele@gmail.com">e-mail</a>. 
