@@ -6,7 +6,7 @@
 ___
 #### ✍🏽 About me
 
-Hello! I am Gracie. As a "Masterchef" wannabe, I love to cook and try new dishes. I declared myself specialized in speed run books. Pseudo-film critic in my spare time, I take pleasure in listening to complete and cohesive albums.
+Hello! I am Gracie. As a "Masterchef" wannabe, I love to cook and try new dishes. I declared myself specialized in "speed-running" books. As a pseudo-film critic in my spare time, I take pleasure in listening to complete and cohesive albums.
 I write on my blog occasionally when inspiration pays me a visit: [Dev on Track!](blog.devontrack.com)
 
 
