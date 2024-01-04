@@ -24,9 +24,9 @@ I write on my blog occasionally when inspiration pays me a visit: [Dev on Track!
 
 ___
 #### :chart_with_upwards_trend: Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno&layout=compact&theme=material-palenight&langs_count=6)](https://github.com/GracieleDamasceno?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GracieleDamasceno&layout=compact&theme=gotham&langs_count=6)](https://github.com/GracieleDamasceno?tab=repositories)
 <br>
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GracieleDamasceno&theme=material-palenight)](https://github.com/GracieleDamasceno?tab=repositories)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GracieleDamasceno&theme=gotham)](https://github.com/GracieleDamasceno?tab=repositories)
 <br>
 
 ![](https://komarev.com/ghpvc/?username=GracieleDamasceno&color=blueviolet&label=PROFILE+VIEWS)
