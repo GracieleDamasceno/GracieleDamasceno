@@ -6,21 +6,17 @@
 ___
 #### ✍🏽 About me
 
-Hello! I am Gracie. As a "Masterchef" wannabe, I love to cook and try new dishes. I declared myself specialized in "speed-running" books. As a pseudo-film critic in my spare time, I take pleasure in listening to complete and cohesive albums.
-I write on my blog occasionally when inspiration pays me a visit: [Dev on Track!](blog.devontrack.com)
+When I was a child, my dream was to become a writer and be able to tell my stories to the world. As an adult, I reconnected with this dream by writing code.
+Just like a writer, as a Software Engineer my main purpose is to compose well-crafted stories and impact lives with my work.
+If I could describe what are my main qualities as a professional, those would be the top ones:
+- I love to share knowledge with my peers and help them improve and thrive. 
+- I love to learn new things and discover new technologies.
+- I love to face new challenges; those make me grow immensely.
+- I thrive to always see the whole picture and think of details that may not be noticed.
+- I love to document, create processes and organize internal workflows to improve the well-being of my team. I care about my colleagues and want the work space to be the best possible.
+- I am very friendly and easygoing 🙃
 
-
-**Random Trivia Time That Nobody Asked For!**
-1. I have the feeling that I've read over 500 books over when I was little. Might be more or less that, but for a period of time I had time to read two to three library books per day! (good times).
-2. My favorite game, so far, is The Witcher 3.
-3. I used to live in Vancouver, Canada, for a few years - while in a scholarship program. Currently, I am living in Brazil.
-4. My favorite color is blue.
-5. 60% of my clothes are black. I'm trying to change that. (It's very challenging, actually!)
-6. The first time that I saw in person and was able to touch a computer was in 2010 (not a long time ago :frowning:)...
-7. ... just to choose it as best friend and source of income in 2014. :money_with_wings:
-8. I taught myself English by watching TV shows with subtitles. :nerd_face:
-9. If I were a book, I literally would be "The Hitchhiker's Guide to the Galaxy", allegedly the best saga ever.
-10. My doggie's favorite toy is a plushy dinosaur. She loves the color yellow as well. Weirdo.
+In my free time - AKA when inspiration pays me a visit, I write some articles at [Dev on Track!](blog.devontrack.com). Check it out.
 
 ___
 #### :chart_with_upwards_trend: Github Stats
@@ -57,4 +53,4 @@ ___
 
 ___
 #### :handshake: Social Media
-Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:damascenograciele@gmail.com">e-mail</a>. 
+Let's chat about anything! You can find me at <a href="https://www.linkedin.com/in/graciele-damasceno/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> or you can send me an <a href="mailto:gracsdam@gmail.com">e-mail</a>, just like the ancient folks used to communicate 😂
