@@ -16,7 +16,7 @@ If I could describe what are my main qualities as a professional, those would be
 - I love to document, create processes and organize internal workflows to improve the well-being of my team. I care about my colleagues and want the work space to be the best possible.
 - I am very friendly and easygoing 🙃
 
-In my free time - AKA when inspiration pays me a visit, I write some articles at [Dev on Track!](blog.devontrack.com). Check it out.
+In my free time - AKA when inspiration pays me a visit, I write some articles at [Dev on Track!](blog.devontrack.com). Check it out!
 
 ___
 #### :chart_with_upwards_trend: Github Stats
